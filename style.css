@@ -1,0 +1,11 @@
+
+body{
+	font-size: 2rem;
+	color: rgb(188, 185, 228);
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div{
+	background-color: rgb(221, 143, 215);
+	width: 300px;
+	border-radius: 2px;
+}
